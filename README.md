@@ -6,4 +6,4 @@ The assignment requires to recover the camera pose with two different approches:
 ### PnP
 ![image](https://github.com/xywang0001/PnP-P3P/blob/master/bird_collineation.gif)
 ### P3P
-![image](https://github.com/xywang0001/PnP-P3P/blob/master/bird_p3p.gif)
+![image](https://github.com/xywang0001/PnP-P3P/blob/master/bird_P3P.gif)

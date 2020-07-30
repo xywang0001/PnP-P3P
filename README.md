@@ -4,6 +4,7 @@ The assignment requires to recover the camera pose (the rotation matrix **R** an
 
 # PNP
 
+
 # P3P
 
 

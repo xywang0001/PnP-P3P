@@ -1,12 +1,11 @@
 # PNP-P3P
-## INTRODUCTION
-The assignment requires to recover the camera pose (the rotation matrix **R** and the translation vetor **t**) with two different approches: PnP with coplanar assumptions and P3P followed by Procrustes.
+## Problem Statement
+Estimate the pose of a calibrated camera when knowing N or 3 points.
 
-# PNP
-
-
-# P3P
-
+## User's guide
+1. The main algorithms are implemented in `pnp.py` and `p3p.py`
+2. `python run_p3p` to run p3p algorithm.
+3. `python run_pnp` to run pnp algorithm.
 
 ## RESULT
 ### PnP
